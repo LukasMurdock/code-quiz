@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "build": "tailwindcss -i styles/input.css -o src/main.css",
+        "dev": "tailwindcss -i styles/input.css -o src/main.css --watch",
+        "deploy": "npm run build && netlify deploy --prod --dir=src"
+    },
+    "devDependencies": {
+        "prettier": "^2.8.4",
+        "prettier-plugin-tailwindcss": "^0.2.3",
+        "tailwindcss": "^3.2.7"
+    }
+}

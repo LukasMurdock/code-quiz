@@ -8,11 +8,6 @@ Code Quiz is used to assess a developer and their current abilities. It's been d
 2. Develop `mockup.png`
 4. Share your repo
 
-## Stack
+## Careers
 
-- HTML
-- Tailwind CSS
-
-## Deployment
-
-[https://scf-test.netlify.app](https://scf-test.netlify.app)
+We're always hiring. See [Careers](https://www.skycatchfire.com/careers) @ SKYCATCHFIRE for more info.
